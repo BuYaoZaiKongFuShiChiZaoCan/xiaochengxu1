@@ -1,0 +1,1 @@
+"E:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-8gxnugk66e163fc9 --n quickstartFunctions --r --project "H:\Web前端\前端-快手康文昌\源码\26" --report_first --report
